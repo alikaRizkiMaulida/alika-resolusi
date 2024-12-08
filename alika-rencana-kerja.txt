@@ -2,5 +2,6 @@ RENCANA KERJA ALIKA
 - sesuai jurusan 
   * javascript
   * php
+  * CI3
 - work from home
 - jadi guru hafalan
