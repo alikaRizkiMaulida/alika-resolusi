@@ -1,7 +1,10 @@
 RENCANA KERJA ALIKA
 - sesuai jurusan 
   * javascript
+      ~ react 
+      ~ vue
+      ~ nodeJS
   * php
-  * CI3
+      ~ laravel
 - work from home
 - jadi guru hafalan
