@@ -6,5 +6,7 @@ RENCANA KERJA ALIKA
       ~ nodeJS
   * php
       ~ laravel
-- offline
+      ~ CI3
+- offline, diluar cileungsi bogor
+- work from home 
 - jadi guru hafalan
