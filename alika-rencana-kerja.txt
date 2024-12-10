@@ -1,7 +1,10 @@
 RENCANA KERJA ALIKA
 - sesuai jurusan 
   * javascript
+     ~ react native
+     ~ vue
   * php
-  * CI3
+     ~ CI3
+- offline, diluar cileungsi bogor
 - work from home
 - jadi guru hafalan
