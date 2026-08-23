@@ -1,4 +1,5 @@
 RENCANA KERJA ALIKA
+- Programmer Backend
 - sesuai jurusan 
   * javascript
       ~ react 
@@ -7,6 +8,8 @@ RENCANA KERJA ALIKA
   * php
       ~ laravel
       ~ CI3
-- offline, diluar cileungsi bogor
-- work from home 
-- jadi guru hafalan
+- work from home / hybrid
+
+other side job
+- jadi guru hafalan / guru ngaji
+- ngajar IT
